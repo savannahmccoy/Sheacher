@@ -3,4 +3,4 @@ App that enables a woman to woman collaborative network to make education and em
 
 
 
-<img src='<http://i.imgur.com/HPrOcRb.gif>' title='Sheacher' width='' alt='GIF' />
+<img src='http://i.imgur.com/HPrOcRb.gif>' title='Sheacher' width='' alt='GIF' />
